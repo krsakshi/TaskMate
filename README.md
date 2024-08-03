@@ -23,6 +23,5 @@
             <p>TaskMate's intuitive interface and powerful features make it the perfect companion for anyone looking to improve their productivity and manage their tasks efficiently. Get started with TaskMate today and take control of your to-do list like never before.</p>
         </section>
     </main>
-    <script src="js/script.js"></script>
 </body>
 </html>
