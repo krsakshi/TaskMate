@@ -21,6 +21,7 @@
                 <li><strong>Responsive Design</strong>: Enjoy a seamless experience on both desktop and mobile devices.</li>
             </ul>
             <p>TaskMate's intuitive interface and powerful features make it the perfect companion for anyone looking to improve their productivity and manage their tasks efficiently. Get started with TaskMate today and take control of your to-do list like never before.</p>
+<h2>License</h2> <p> This project is licensed under the MIT License. See the <a href="(https://github.com/krsakshi/TaskMate/blob/main/LICENSE)">LICENSE</a> file for details. </p>
         </section>
     </main>
 </body>
